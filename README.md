@@ -1,2 +1,4 @@
 ﻿# Responsive-watches-website
-!(/watch.png)
+## Previews
+
+![](/solar-system.jpg)
