@@ -1,4 +1,4 @@
 ﻿# Responsive-watches-website
-## Previews
+## Preview
 
 ![](watch.png)
